@@ -7,9 +7,6 @@ import static org.hamcrest.core.Is.is;
 import static org.hamcrest.core.IsNull.notNullValue;
 import static org.junit.Assert.*;
 
-/**
- * Created by Mary Ellen Bowman
- */
 public class TourRatingTest {
 
     private Tour tour = new Tour("title","description","blurb", 50, "1 day", "bullet",

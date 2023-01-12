@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c65b9b1-3868-4b84-be83-1a21b3e7f766" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerizing Microservice/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explorecali/target/test-classes/com/example/ec/ExplorecaliApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/explorecali/target/test-classes/com/example/ec/ExplorecaliApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explorecali/target/test-classes/com/example/ec/web/TourRatingControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/explorecali/target/test-classes/com/example/ec/web/TourRatingControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/JwtRequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/JwtRequestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/LoginDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/LoginDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/UserControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KCzvPlXXOraFHuFJ3o6fqWfpNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/betty/Desktop/extending-securing-and-dockerizing-spring-boot-microservices/Leveraging Docker for Mysql db"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c65b9b1-3868-4b84-be83-1a21b3e7f766" name="Changes" comment="" />
+      <created>1673493582865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673493582865</updated>
+      <workItem from="1673493584176" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

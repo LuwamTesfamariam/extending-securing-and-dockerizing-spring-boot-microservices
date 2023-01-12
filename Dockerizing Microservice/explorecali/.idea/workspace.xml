@@ -5,137 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a878966-48b2-47a8-9bef-2ebedb3db86e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/myapp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application-docker.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application-mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/Difficulty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/Region.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/RegionConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/Tour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/TourPackage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/TourRating.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/repo/RoleRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/repo/TourPackageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/repo/TourRatingRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/repo/TourRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/repo/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/security/ExploreCaliUserDetailsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/security/JwtProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/security/JwtTokenFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/security/WebSecurityConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/service/TourRatingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/ExceptionHandlerController$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/ExceptionHandlerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/LoginDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingAssembler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/TourRatingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/ec/web/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.1__CreateTourSchema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.2__AddTours.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.3__CreateTourRatingSchema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.4__AddTourRatings.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V2.1__CreateSecuritySchema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db/migration/V2.2__AddUsers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/.idea/Leveraging Docker for Mysql db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/ExplorecaliApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Difficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Difficulty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/RegionConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/RegionConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Tour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/Tour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/TourPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/TourPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/TourRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/TourRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourPackageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourPackageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourRatingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourRatingRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/TourRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/repo/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/security/ExploreCaliUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/security/ExploreCaliUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/security/JwtProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/security/JwtProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/security/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/security/JwtTokenFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/security/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/security/WebSecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/service/TourRatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/service/TourRatingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/LoginDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingAssembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/TourRatingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/RegionConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/RegionConverterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/RegionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/RegionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourPackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourPackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourRatingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourRatingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/domain/TourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/repo/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/repo/UserRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/service/TourRatingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/service/TourRatingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/service/UserServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/service/UserServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingDtoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/web/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ec/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/JwtRequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/JwtRequestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/LoginDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/LoginDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/ec/web/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/ExceptionHandlerController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/ExceptionHandlerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/LoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ec/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enhancing Spring Boot microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/domain/TourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Difficulty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Difficulty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Region.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Region.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/RegionConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/RegionConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Tour.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/Tour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/TourPackage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/TourPackage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/TourRating.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/domain/TourRating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/repo/TourPackageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/repo/TourPackageRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/repo/TourRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/repo/TourRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/service/TourRatingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/service/TourRatingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Difficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Difficulty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/RegionConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/RegionConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Tour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/Tour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/TourPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/TourPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/TourRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/TourRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourPackageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourPackageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourRatingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourRatingRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/TourRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/repo/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/ExploreCaliUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/ExploreCaliUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/JwtProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/JwtProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/security/JwtTokenFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/service/TourRatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/service/TourRatingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/ExceptionHandlerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/LoginDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/RegionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/domain/TourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/repo/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/repo/UserRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/UserServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/service/UserServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/JwtRequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/JwtRequestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/LoginDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/LoginDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/web/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/ExplorecaliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/ExceptionHandlerController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/ExceptionHandlerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/LoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/RatingAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/RatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/RatingDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/TourRatingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/classes/com/example/ec/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/ExplorecaliApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/ExplorecaliApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/JwtRequestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/LoginDtoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/RatingAssemblerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/RatingControllerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/RatingControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/RatingDtoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/TourRatingControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/UserControllerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/target/test-classes/com/example/ec/web/UserControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/logs/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/ExploreCaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/RatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/main/java/com/example/ec/controller/RatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/TourRatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/main/java/com/example/ec/controller/TourRatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/main/java/com/example/ec/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/ExploreCaliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/JwtRequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/JwtRequestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/LoginDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/LoginDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/RatingAssemblerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hardening the Microservice/explorecali/src/test/java/com/example/ec/controller/RatingDtoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/TourRatingControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Security with JWT/explorecali/src/test/java/com/example/ec/web/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leveraging Docker for Mysql db/explorecali/src/test/java/com/example/ec/controller/UserControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,11 +185,64 @@
     "RequestMappingsPanelWidth1": "75",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/betty/Desktop/extending-securing-and-dockerizing-springboot-microservices/Dockerizing Microservice/explorecali",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "/Users/betty/Desktop/extending-securing-and-dockerizing-spring-boot-microservices/Dockerizing Microservice/explorecali",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "943ddb618b8ff63dd69ce0be1750e41d"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.ExploreCaliApplication">
+    <configuration name="All in explorecali" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="explorecali" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TourRatingControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="explorecali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ec.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.ec.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ec.web.TourRatingControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TourRatingControllerTest.updateWithPatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="explorecali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ec.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.ec.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ec.web.TourRatingControllerTest" />
+      <option name="METHOD_NAME" value="updateWithPatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExploreCaliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="explorecali" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ec.ExploreCaliApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExplorecaliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="explorecali" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ec.ExplorecaliApplication" />
@@ -207,6 +250,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ExploreCaliApplication" />
+        <item itemvalue="JUnit.All in explorecali" />
+        <item itemvalue="JUnit.TourRatingControllerTest" />
+        <item itemvalue="JUnit.TourRatingControllerTest.updateWithPatch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -220,6 +271,8 @@
       <option name="presentableId" value="Default" />
       <updated>1534961574748</updated>
       <workItem from="1673489250883" duration="1301000" />
+      <workItem from="1673491472818" duration="487000" />
+      <workItem from="1673493575621" duration="412000" />
     </task>
     <servers />
   </component>
