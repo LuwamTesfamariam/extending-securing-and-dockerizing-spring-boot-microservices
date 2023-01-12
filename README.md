@@ -15,7 +15,7 @@
   -Adding runtime logger
   
   
-  -Unit testing woth Mokito vs. Integration testing
+  -Unit testing with Mokito vs. Integration testing
   
   
   -Restful API testing with JUnit 
@@ -51,5 +51,5 @@
   -Selecting Spring profiles at runtime
   
   
-### [Dockeriizing Microservice](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Dockerizing%20Microservice/explorecali)
+### [Dockerizing Microservice](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Dockerizing%20Microservice/explorecali)
  
