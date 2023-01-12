@@ -20,10 +20,6 @@ import java.util.Optional;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 import static org.mockito.Mockito.*;
-
-/**
- * Created by Mary Ellen Bowman
- */
 @RunWith(MockitoJUnitRunner.class)
 public class TourRatingServiceTest {
 
