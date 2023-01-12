@@ -9,7 +9,7 @@
   -Identify transactional business service boundries
   
   
-[Hardening the Microservice] (https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Hardening%20the%20Microservice/explorecali)
+[Hardening the Microservice](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Hardening%20the%20Microservice/explorecali)
 
 
   -Adding runtime logger
@@ -27,10 +27,10 @@
 [Spring Security With JWT](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Spring%20Security%20with%20JWT/explorecali)
 
 
-  -Users and roles
+  &nbsp-Users and roles
   
   
-  -Spring security authentication
+  &nbsp-Spring security authentication
   
   
   -Password encryption
@@ -51,5 +51,5 @@
   -Selecting Spring profiles at runtime
   
   
-5.[Dockeriizing Microservice](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Dockerizing%20Microservice/explorecali)
+[Dockeriizing Microservice](https://github.com/LuwamTesfamariam/extending-securing-and-dockerizing-spring-boot-microservices/tree/main/Dockerizing%20Microservice/explorecali)
  
